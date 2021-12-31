@@ -65,7 +65,6 @@ $font-line-height-secondary: 1.3;  // 紧凑
 
 ```css
 font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
-``
 ```
 
 ## 3. 边框
