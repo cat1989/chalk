@@ -10,3 +10,4 @@ else {
     resetBaseFontSize();
 }
 window.addEventListener("resize", resetBaseFontSize);
+//# sourceMappingURL=index.js.map
